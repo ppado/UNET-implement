@@ -1,5 +1,5 @@
 # UNET-implement
-Unet implement using tensorflow 1.0 (at 2019), trained on Google Colab.
+Unet implement using tensorflow 1.14.0 (at 2019), trained on Google Colab.
 
 
 paper from: https://arxiv.org/abs/1505.04597
